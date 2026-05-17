@@ -85,4 +85,3 @@ Not optimized for very large datasets yet
 📊 Analytics Dashboard
 📱 Mobile App Integration
 ⚡ Faster Face Matching (Vector DB)
-
