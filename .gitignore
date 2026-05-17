@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.dll
+*.so
+*.log
+*.sqlite3
+*.db
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# ---- Android ----
+.gradle/
+local.properties
+.idea/
+*.iml
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# ---- Android Studio ----
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+*.log
+*.hprof
+
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.tmp
+*.bak

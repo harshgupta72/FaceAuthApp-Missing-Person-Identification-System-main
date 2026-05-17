@@ -1,0 +1,9 @@
+Flask==3.1.2
+flask-cors>=4.0.1
+gunicorn==23.0.0
+deepface==0.0.95
+tensorflow==2.18.0
+tf-keras==2.18.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pandas==2.3.1
