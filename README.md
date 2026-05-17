@@ -86,7 +86,3 @@ Not optimized for very large datasets yet
 📱 Mobile App Integration
 ⚡ Faster Face Matching (Vector DB)
 
-
-👨‍💻 Author
-
-Aman Raj
